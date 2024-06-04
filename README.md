@@ -52,6 +52,6 @@
 
 <p align="center">
   <samp>
-    Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
+    Feel free to explore my repositories and reach out if you'd like to collaborate on any projects
   </samp>
 </p>
