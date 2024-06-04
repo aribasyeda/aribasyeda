@@ -31,8 +31,8 @@
 
 ### 📊 Data Visualization
 <ul style="list-style-position: inside; text-align: left; display: inline-block;">
-  <li><strong>Libraries</strong>: Matplotlib, Plotly</li>
-  <li><strong>Tools</strong>: Tableau, Streamlit</li>
+  <li><strong>Libraries</strong>: Matplotlib, Plotly, Streamlit</li>
+  <li><strong>Tools</strong>: Tableau</li>
 </ul>
 
 ### 🤖 Machine Learning
