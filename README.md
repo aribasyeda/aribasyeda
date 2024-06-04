@@ -42,7 +42,7 @@
 
 ### ☁️ Cloud & DevOps
 <ul style="list-style-position: inside; text-align: left; display: inline-block;">
-  <li><strong>Containerization</strong>: Docker</li>
+  <li><strong>Containerisation</strong>: Docker</li>
   <li><strong>Cloud Platforms</strong>: AWS</li>
   <li><strong>Infrastructure as Code</strong>: Terraform</li>
 </ul>
