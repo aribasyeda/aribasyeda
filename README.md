@@ -29,7 +29,7 @@
   <li><strong>Processing Frameworks</strong>: Spark</li>
 </ul>
 
-### 📊 Data Visualization
+### 📊 Data Visualisation
 <ul style="list-style-position: inside; text-align: left; display: inline-block;">
   <li><strong>Libraries</strong>: Matplotlib, Plotly, Streamlit</li>
   <li><strong>Tools</strong>: Tableau</li>
